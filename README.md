@@ -8,7 +8,6 @@ Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab
 
 ## Analysis Performed
 - Data Cleaning
